@@ -1,2 +1,6 @@
+#!/bin/tcsh
 # file1
-testing file1
+
+echo "Hello world"
+
+
